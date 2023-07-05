@@ -1,1 +1,9 @@
+# HTTP Server
+server:
+  port: 5524
+  servlet:
+    context-path: /api
 
+spring:
+  application:
+    name: rtech
